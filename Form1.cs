@@ -11,7 +11,7 @@ namespace prueba1
         {
             var num1 = 10;
             var num2 = 20;
-            int resultado = Suma (num1, num2)
+            int resultado = Suma(num1, num2);
         }
 
         private int Suma(int a, int b)
