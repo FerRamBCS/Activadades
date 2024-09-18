@@ -1,0 +1,17 @@
+C:\Users\ASUS TUF\source\repos\prueba1\bin\Debug\net8.0-windows\prueba1.exe
+C:\Users\ASUS TUF\source\repos\prueba1\bin\Debug\net8.0-windows\prueba1.deps.json
+C:\Users\ASUS TUF\source\repos\prueba1\bin\Debug\net8.0-windows\prueba1.runtimeconfig.json
+C:\Users\ASUS TUF\source\repos\prueba1\bin\Debug\net8.0-windows\prueba1.dll
+C:\Users\ASUS TUF\source\repos\prueba1\bin\Debug\net8.0-windows\prueba1.pdb
+C:\Users\ASUS TUF\source\repos\prueba1\obj\Debug\net8.0-windows\prueba1.Form1.resources
+C:\Users\ASUS TUF\source\repos\prueba1\obj\Debug\net8.0-windows\prueba1.csproj.GenerateResource.cache
+C:\Users\ASUS TUF\source\repos\prueba1\obj\Debug\net8.0-windows\prueba1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS TUF\source\repos\prueba1\obj\Debug\net8.0-windows\prueba1.AssemblyInfoInputs.cache
+C:\Users\ASUS TUF\source\repos\prueba1\obj\Debug\net8.0-windows\prueba1.AssemblyInfo.cs
+C:\Users\ASUS TUF\source\repos\prueba1\obj\Debug\net8.0-windows\prueba1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF\source\repos\prueba1\obj\Debug\net8.0-windows\prueba1.sourcelink.json
+C:\Users\ASUS TUF\source\repos\prueba1\obj\Debug\net8.0-windows\prueba1.dll
+C:\Users\ASUS TUF\source\repos\prueba1\obj\Debug\net8.0-windows\refint\prueba1.dll
+C:\Users\ASUS TUF\source\repos\prueba1\obj\Debug\net8.0-windows\prueba1.pdb
+C:\Users\ASUS TUF\source\repos\prueba1\obj\Debug\net8.0-windows\prueba1.genruntimeconfig.cache
+C:\Users\ASUS TUF\source\repos\prueba1\obj\Debug\net8.0-windows\ref\prueba1.dll
